@@ -1,2 +1,2 @@
-# DataScience_Prac
-Exploring the world of data.
+# DataScience-ML
+Exploring the world of data and trying to learn.
